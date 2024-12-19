@@ -16,6 +16,7 @@ The website aims to spread awareness among the public about climate change as on
 - **Educational Content**: Information on climate change, its impact, and the importance of SDG13.
 - **Actionable Steps**: Suggestions for reducing carbon emissions and adopting sustainable practices.
 - **Event**: Information on upcoming climate-related events and initiatives.
+- **Donation**: Fill up donation form to donate.
 
 ## Technologies Used
 
