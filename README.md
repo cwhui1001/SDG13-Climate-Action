@@ -1,5 +1,5 @@
 # SDG13 - Climate Action Website
-<img src="https://github.com/cwhui1001/SDG13-Climate-Action/blob/main/homepage.png" alt="Alt text" width="500">
+<img src="https://github.com/cwhui1001/SDG13-Climate-Action/blob/main/Screenshot%20(304).png">
 ## Background
 
 The website aims to spread awareness among the public about climate change as one of the most significant threats to the earth. SDG 13 intends to take urgent action to combat climate change and its impacts. This includes reducing greenhouse gas emissions, increasing resilience to climate-related hazards, and integrating climate change measures into daily life. Climate change threatens people with increased flooding due to higher sea levels, extreme heat, increased food and water scarcity, more disease, and economic loss. This website serves as a platform to raise awareness about SDG 13 and to educate individuals and organizations to take meaningful actions towards mitigating climate change.
